@@ -17,7 +17,9 @@ Development was a slog and it became a mere shadow of itself. Anne's section was
 
 "This looks so (insert description here)! (long and verbose rant on how I should kill myself because I made this mod and it was so badly executed that it made [writer]'s mom die)"
 
-Trust me. You don't have to wait long X)![This is Dake](https://user-images.githubusercontent.com/121415589/209500557-a18ff585-cfd2-490f-81a0-afa115cde836.png)
+Trust me. You don't have to wait long X)!
+
+[This is Dake](https://user-images.githubusercontent.com/121415589/209500557-a18ff585-cfd2-490f-81a0-afa115cde836.png)
 
 # End notes
 
