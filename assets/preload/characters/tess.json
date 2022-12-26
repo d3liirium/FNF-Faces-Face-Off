@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "tess idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "tess right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "tess down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				-5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "tess left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				14
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "tess up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Tess_Assets",
+	"position": [
+		0,
+		-150
+	],
+	"healthicon": "tess",
+	"flip_x": true,
+	"healthbar_colors": [
+		199,
+		78,
+		113
+	],
+	"camera_position": [
+		-90,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

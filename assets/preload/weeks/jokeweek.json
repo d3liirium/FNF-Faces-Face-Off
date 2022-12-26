@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Labirynth",
+			"face",
+			[
+				186,
+				213,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": true,
+	"weekBackground": "",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"face",
+		"bf",
+		"gf"
+	],
+	"storyName": "???",
+	"weekName": "FACE",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "face",
+	"startUnlocked": false
+}

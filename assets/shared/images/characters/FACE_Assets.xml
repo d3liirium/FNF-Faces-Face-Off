@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FACE_Assets.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down0000" x="0" y="0" width="279" height="425"/>
+	<SubTexture name="Down0001" x="0" y="0" width="279" height="425"/>
+	<SubTexture name="Down0002" x="279" y="0" width="279" height="425"/>
+	<SubTexture name="Down0003" x="279" y="0" width="279" height="425"/>
+	<SubTexture name="Down0004" x="279" y="0" width="279" height="425"/>
+	<SubTexture name="Down0005" x="279" y="0" width="279" height="425"/>
+	<SubTexture name="Down0006" x="279" y="0" width="279" height="425"/>
+	<SubTexture name="Down0007" x="279" y="0" width="279" height="425"/>
+	<SubTexture name="Down0008" x="279" y="0" width="279" height="425"/>
+	<SubTexture name="Down0009" x="279" y="0" width="279" height="425"/>
+	<SubTexture name="Down0010" x="279" y="0" width="279" height="425"/>
+	<SubTexture name="Down0011" x="279" y="0" width="279" height="425"/>
+	<SubTexture name="Down0012" x="279" y="0" width="279" height="425"/>
+	<SubTexture name="Down0013" x="279" y="0" width="279" height="425"/>
+	<SubTexture name="Down0014" x="279" y="0" width="279" height="425"/>
+	<SubTexture name="Down0015" x="279" y="0" width="279" height="425"/>
+	<SubTexture name="Down0016" x="279" y="0" width="279" height="425"/>
+	<SubTexture name="Down0017" x="279" y="0" width="279" height="425"/>
+	<SubTexture name="Down0018" x="279" y="0" width="279" height="425"/>
+	<SubTexture name="Down0019" x="279" y="0" width="279" height="425"/>
+	<SubTexture name="Down0020" x="279" y="0" width="279" height="425"/>
+	<SubTexture name="Down0021" x="279" y="0" width="279" height="425"/>
+	<SubTexture name="Down0022" x="279" y="0" width="279" height="425"/>
+	<SubTexture name="Down0023" x="279" y="0" width="279" height="425"/>
+	<SubTexture name="Idle0000" x="558" y="0" width="346" height="476"/>
+	<SubTexture name="Idle0001" x="558" y="0" width="346" height="476"/>
+	<SubTexture name="Idle0002" x="904" y="0" width="346" height="476"/>
+	<SubTexture name="Idle0003" x="904" y="0" width="346" height="476"/>
+	<SubTexture name="Idle0004" x="1250" y="0" width="346" height="476"/>
+	<SubTexture name="Idle0005" x="1250" y="0" width="346" height="476"/>
+	<SubTexture name="Idle0006" x="1596" y="0" width="346" height="476"/>
+	<SubTexture name="Idle0007" x="1596" y="0" width="346" height="476"/>
+	<SubTexture name="Idle0008" x="1942" y="0" width="346" height="476"/>
+	<SubTexture name="Idle0009" x="1942" y="0" width="346" height="476"/>
+	<SubTexture name="Idle0010" x="1942" y="0" width="346" height="476"/>
+	<SubTexture name="Idle0011" x="1942" y="0" width="346" height="476"/>
+	<SubTexture name="Idle0012" x="1942" y="0" width="346" height="476"/>
+	<SubTexture name="Idle0013" x="1942" y="0" width="346" height="476"/>
+	<SubTexture name="Left0000" x="2288" y="0" width="258" height="471"/>
+	<SubTexture name="Left0001" x="2288" y="0" width="258" height="471"/>
+	<SubTexture name="Left0002" x="2546" y="0" width="258" height="471"/>
+	<SubTexture name="Left0003" x="2546" y="0" width="258" height="471"/>
+	<SubTexture name="Left0004" x="2546" y="0" width="258" height="471"/>
+	<SubTexture name="Left0005" x="2546" y="0" width="258" height="471"/>
+	<SubTexture name="Left0006" x="2546" y="0" width="258" height="471"/>
+	<SubTexture name="Left0007" x="2546" y="0" width="258" height="471"/>
+	<SubTexture name="Left0008" x="2546" y="0" width="258" height="471"/>
+	<SubTexture name="Left0009" x="2546" y="0" width="258" height="471"/>
+	<SubTexture name="Left0010" x="2546" y="0" width="258" height="471"/>
+	<SubTexture name="Left0011" x="2546" y="0" width="258" height="471"/>
+	<SubTexture name="Left0012" x="2546" y="0" width="258" height="471"/>
+	<SubTexture name="Left0013" x="2546" y="0" width="258" height="471"/>
+	<SubTexture name="Left0014" x="2546" y="0" width="258" height="471"/>
+	<SubTexture name="Left0015" x="2546" y="0" width="258" height="471"/>
+	<SubTexture name="Left0016" x="2546" y="0" width="258" height="471"/>
+	<SubTexture name="Left0017" x="2546" y="0" width="258" height="471"/>
+	<SubTexture name="Left0018" x="2546" y="0" width="258" height="471"/>
+	<SubTexture name="Left0019" x="2546" y="0" width="258" height="471"/>
+	<SubTexture name="Left0020" x="2546" y="0" width="258" height="471"/>
+	<SubTexture name="Left0021" x="2546" y="0" width="258" height="471"/>
+	<SubTexture name="Left0022" x="2546" y="0" width="258" height="471"/>
+	<SubTexture name="Left0023" x="2546" y="0" width="258" height="471"/>
+	<SubTexture name="Left0024" x="2804" y="0" width="258" height="471"/>
+	<SubTexture name="Right0000" x="3062" y="0" width="303" height="468"/>
+	<SubTexture name="Right0001" x="3062" y="0" width="303" height="468"/>
+	<SubTexture name="Right0002" x="3365" y="0" width="303" height="468"/>
+	<SubTexture name="Right0003" x="3365" y="0" width="303" height="468"/>
+	<SubTexture name="Right0004" x="3365" y="0" width="303" height="468"/>
+	<SubTexture name="Right0005" x="3365" y="0" width="303" height="468"/>
+	<SubTexture name="Right0006" x="3365" y="0" width="303" height="468"/>
+	<SubTexture name="Right0007" x="3365" y="0" width="303" height="468"/>
+	<SubTexture name="Right0008" x="3365" y="0" width="303" height="468"/>
+	<SubTexture name="Right0009" x="3365" y="0" width="303" height="468"/>
+	<SubTexture name="Right0010" x="3365" y="0" width="303" height="468"/>
+	<SubTexture name="Right0011" x="3365" y="0" width="303" height="468"/>
+	<SubTexture name="Right0012" x="3365" y="0" width="303" height="468"/>
+	<SubTexture name="Right0013" x="3365" y="0" width="303" height="468"/>
+	<SubTexture name="Right0014" x="3365" y="0" width="303" height="468"/>
+	<SubTexture name="Right0015" x="3365" y="0" width="303" height="468"/>
+	<SubTexture name="Right0016" x="3365" y="0" width="303" height="468"/>
+	<SubTexture name="Right0017" x="3365" y="0" width="303" height="468"/>
+	<SubTexture name="Right0018" x="3365" y="0" width="303" height="468"/>
+	<SubTexture name="Right0019" x="3365" y="0" width="303" height="468"/>
+	<SubTexture name="Right0020" x="3365" y="0" width="303" height="468"/>
+	<SubTexture name="Right0021" x="3365" y="0" width="303" height="468"/>
+	<SubTexture name="Right0022" x="3365" y="0" width="303" height="468"/>
+	<SubTexture name="Right0023" x="3365" y="0" width="303" height="468"/>
+	<SubTexture name="Up0000" x="3668" y="0" width="278" height="488"/>
+	<SubTexture name="Up0001" x="3668" y="0" width="278" height="488"/>
+	<SubTexture name="Up0002" x="0" y="488" width="278" height="488"/>
+	<SubTexture name="Up0003" x="0" y="488" width="278" height="488"/>
+	<SubTexture name="Up0004" x="0" y="488" width="278" height="488"/>
+	<SubTexture name="Up0005" x="0" y="488" width="278" height="488"/>
+	<SubTexture name="Up0006" x="0" y="488" width="278" height="488"/>
+	<SubTexture name="Up0007" x="0" y="488" width="278" height="488"/>
+	<SubTexture name="Up0008" x="0" y="488" width="278" height="488"/>
+	<SubTexture name="Up0009" x="0" y="488" width="278" height="488"/>
+	<SubTexture name="Up0010" x="0" y="488" width="278" height="488"/>
+	<SubTexture name="Up0011" x="0" y="488" width="278" height="488"/>
+	<SubTexture name="Up0012" x="0" y="488" width="278" height="488"/>
+	<SubTexture name="Up0013" x="0" y="488" width="278" height="488"/>
+	<SubTexture name="Up0014" x="0" y="488" width="278" height="488"/>
+	<SubTexture name="Up0015" x="0" y="488" width="278" height="488"/>
+	<SubTexture name="Up0016" x="0" y="488" width="278" height="488"/>
+	<SubTexture name="Up0017" x="0" y="488" width="278" height="488"/>
+	<SubTexture name="Up0018" x="0" y="488" width="278" height="488"/>
+	<SubTexture name="Up0019" x="0" y="488" width="278" height="488"/>
+	<SubTexture name="Up0020" x="0" y="488" width="278" height="488"/>
+	<SubTexture name="Up0021" x="0" y="488" width="278" height="488"/>
+	<SubTexture name="Up0022" x="0" y="488" width="278" height="488"/>
+	<SubTexture name="Up0023" x="0" y="488" width="278" height="488"/>
+	<SubTexture name="Voice line 10000" x="278" y="488" width="386" height="481"/>
+	<SubTexture name="Voice line 10001" x="278" y="488" width="386" height="481"/>
+	<SubTexture name="Voice line 10002" x="664" y="488" width="386" height="481"/>
+	<SubTexture name="Voice line 10003" x="664" y="488" width="386" height="481"/>
+	<SubTexture name="Voice line 10004" x="1050" y="488" width="386" height="481"/>
+	<SubTexture name="Voice line 10005" x="1436" y="488" width="386" height="481"/>
+	<SubTexture name="Voice line 10006" x="1822" y="488" width="386" height="481"/>
+	<SubTexture name="Voice line 10007" x="1822" y="488" width="386" height="481"/>
+	<SubTexture name="Voice line 10008" x="2208" y="488" width="386" height="481"/>
+	<SubTexture name="Voice line 10009" x="2208" y="488" width="386" height="481"/>
+	<SubTexture name="Voice line 10010" x="2594" y="488" width="386" height="481"/>
+	<SubTexture name="Voice line 10011" x="2980" y="488" width="386" height="481"/>
+	<SubTexture name="Voice line 10012" x="3366" y="488" width="386" height="481"/>
+	<SubTexture name="Voice line 10013" x="0" y="976" width="386" height="481"/>
+	<SubTexture name="Voice line 10014" x="386" y="976" width="386" height="481"/>
+	<SubTexture name="Voice line 10015" x="772" y="976" width="386" height="481"/>
+	<SubTexture name="Voice line 10016" x="1158" y="976" width="386" height="481"/>
+	<SubTexture name="Voice line 10017" x="1544" y="976" width="386" height="481"/>
+	<SubTexture name="Voice line 10018" x="1930" y="976" width="386" height="481"/>
+	<SubTexture name="Voice line 10019" x="2316" y="976" width="386" height="481"/>
+	<SubTexture name="Voice line 10020" x="2702" y="976" width="386" height="481"/>
+	<SubTexture name="Voice line 10021" x="2702" y="976" width="386" height="481"/>
+	<SubTexture name="Voice line 10022" x="3088" y="976" width="386" height="481"/>
+	<SubTexture name="Voice line 10023" x="3474" y="976" width="386" height="481"/>
+	<SubTexture name="Voice line 10024" x="0" y="1457" width="386" height="481"/>
+	<SubTexture name="Voice line 10025" x="0" y="1457" width="386" height="481"/>
+	<SubTexture name="Voice line 10026" x="386" y="1457" width="386" height="481"/>
+	<SubTexture name="Voice line 10027" x="386" y="1457" width="386" height="481"/>
+	<SubTexture name="Voice line 10028" x="772" y="1457" width="386" height="481"/>
+	<SubTexture name="Voice line 10029" x="772" y="1457" width="386" height="481"/>
+	<SubTexture name="Voice line 10030" x="1158" y="1457" width="386" height="481"/>
+	<SubTexture name="Voice line 10031" x="1158" y="1457" width="386" height="481"/>
+	<SubTexture name="Voice line 10032" x="1544" y="1457" width="386" height="481"/>
+	<SubTexture name="Voice line 10033" x="1930" y="1457" width="386" height="481"/>
+	<SubTexture name="Voice line 10034" x="772" y="1457" width="386" height="481"/>
+	<SubTexture name="Voice line 10035" x="772" y="1457" width="386" height="481"/>
+	<SubTexture name="Voice line 10036" x="2316" y="1457" width="386" height="481"/>
+	<SubTexture name="Voice line 10037" x="2702" y="1457" width="386" height="481"/>
+	<SubTexture name="Voice line 10038" x="3088" y="1457" width="386" height="481"/>
+	<SubTexture name="Voice line 10039" x="3474" y="1457" width="386" height="481"/>
+	<SubTexture name="Voice line 10040" x="0" y="1938" width="386" height="481"/>
+	<SubTexture name="Voice line 10041" x="0" y="1938" width="386" height="481"/>
+	<SubTexture name="Voice line 10042" x="386" y="1938" width="386" height="481"/>
+	<SubTexture name="Voice line 10043" x="386" y="1938" width="386" height="481"/>
+	<SubTexture name="Voice line 10044" x="772" y="1938" width="386" height="481"/>
+	<SubTexture name="Voice line 10045" x="772" y="1938" width="386" height="481"/>
+	<SubTexture name="Voice line 10046" x="1158" y="1938" width="386" height="481"/>
+	<SubTexture name="Voice line 10047" x="1158" y="1938" width="386" height="481"/>
+	<SubTexture name="Voice line 20000" x="1544" y="1938" width="398" height="480"/>
+	<SubTexture name="Voice line 20001" x="1942" y="1938" width="398" height="480"/>
+	<SubTexture name="Voice line 20002" x="2340" y="1938" width="398" height="480"/>
+	<SubTexture name="Voice line 20003" x="2738" y="1938" width="398" height="480"/>
+	<SubTexture name="Voice line 20004" x="3136" y="1938" width="398" height="480"/>
+	<SubTexture name="Voice line 20005" x="3534" y="1938" width="398" height="480"/>
+	<SubTexture name="Voice line 20006" x="0" y="2419" width="398" height="480"/>
+	<SubTexture name="Voice line 20007" x="0" y="2419" width="398" height="480"/>
+	<SubTexture name="Voice line 20008" x="398" y="2419" width="398" height="480"/>
+	<SubTexture name="Voice line 20009" x="398" y="2419" width="398" height="480"/>
+	<SubTexture name="Voice line 20010" x="796" y="2419" width="398" height="480"/>
+	<SubTexture name="Voice line 20011" x="796" y="2419" width="398" height="480"/>
+	<SubTexture name="Voice line 20012" x="1194" y="2419" width="398" height="480"/>
+	<SubTexture name="Voice line 20013" x="1194" y="2419" width="398" height="480"/>
+	<SubTexture name="Voice line 20014" x="1592" y="2419" width="398" height="480"/>
+	<SubTexture name="Voice line 20015" x="1990" y="2419" width="398" height="480"/>
+	<SubTexture name="Voice line 20016" x="2388" y="2419" width="398" height="480"/>
+	<SubTexture name="Voice line 20017" x="2786" y="2419" width="398" height="480"/>
+	<SubTexture name="Voice line 20018" x="2786" y="2419" width="398" height="480"/>
+	<SubTexture name="Voice line 20019" x="3184" y="2419" width="398" height="480"/>
+	<SubTexture name="Voice line 20020" x="3582" y="2419" width="398" height="480"/>
+	<SubTexture name="Voice line 20021" x="0" y="2899" width="398" height="480"/>
+	<SubTexture name="Voice line 20022" x="398" y="2899" width="398" height="480"/>
+	<SubTexture name="Voice line 20023" x="796" y="2899" width="398" height="480"/>
+	<SubTexture name="Voice line 20024" x="1194" y="2899" width="398" height="480"/>
+	<SubTexture name="Voice line 20025" x="1592" y="2899" width="398" height="480"/>
+	<SubTexture name="Voice line 20026" x="1990" y="2899" width="398" height="480"/>
+	<SubTexture name="Voice line 20027" x="2388" y="2899" width="398" height="480"/>
+	<SubTexture name="Voice line 20028" x="2388" y="2899" width="398" height="480"/>
+	<SubTexture name="Voice line 20029" x="2786" y="2899" width="398" height="480"/>
+	<SubTexture name="Voice line 20030" x="3184" y="2899" width="398" height="480"/>
+	<SubTexture name="Voice line 20031" x="3582" y="2899" width="398" height="480"/>
+	<SubTexture name="Voice line 20032" x="3582" y="2899" width="398" height="480"/>
+	<SubTexture name="Voice line 20033" x="0" y="3379" width="398" height="480"/>
+	<SubTexture name="Voice line 20034" x="0" y="3379" width="398" height="480"/>
+	<SubTexture name="Voice line 20035" x="398" y="3379" width="398" height="480"/>
+	<SubTexture name="Voice line 20036" x="398" y="3379" width="398" height="480"/>
+	<SubTexture name="Voice line 20037" x="3582" y="2899" width="398" height="480"/>
+	<SubTexture name="Voice line 20038" x="3582" y="2899" width="398" height="480"/>
+	<SubTexture name="Voice line 20039" x="796" y="3379" width="398" height="480"/>
+	<SubTexture name="Voice line 20040" x="796" y="3379" width="398" height="480"/>
+	<SubTexture name="Voice line 20041" x="1194" y="3379" width="398" height="480"/>
+	<SubTexture name="Voice line 20042" x="1194" y="3379" width="398" height="480"/>
+	<SubTexture name="Voice line 20043" x="1592" y="3379" width="398" height="480"/>
+	<SubTexture name="Voice line 20044" x="1592" y="3379" width="398" height="480"/>
+	<SubTexture name="Voice line 20045" x="1990" y="3379" width="398" height="480"/>
+	<SubTexture name="Voice line 20046" x="1990" y="3379" width="398" height="480"/>
+	<SubTexture name="Voice line 20047" x="2388" y="3379" width="398" height="480"/>
+	<SubTexture name="Voice line 20048" x="2388" y="3379" width="398" height="480"/>
+	<SubTexture name="Voice line 20049" x="2388" y="3379" width="398" height="480"/>
+	<SubTexture name="Voice line 20050" x="2786" y="3379" width="398" height="480"/>
+	<SubTexture name="Voice line 20051" x="2786" y="3379" width="398" height="480"/>
+	<SubTexture name="Voice line 20052" x="3184" y="3379" width="398" height="480"/>
+	<SubTexture name="Voice line 20053" x="3184" y="3379" width="398" height="480"/>
+	<SubTexture name="Voice line 20054" x="3582" y="3379" width="398" height="480"/>
+	<SubTexture name="Voice line 20055" x="3582" y="3379" width="398" height="480"/>
+	<SubTexture name="Voice line 20056" x="3582" y="3379" width="398" height="480"/>
+</TextureAtlas>

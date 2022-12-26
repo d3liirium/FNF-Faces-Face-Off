@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FACE_DIALOGUE_HAPPY.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fuck0000" x="0" y="0" width="246" height="468"/>
+	<SubTexture name="talkin loop0000" x="246" y="0" width="250" height="468"/>
+	<SubTexture name="talkin loop0001" x="246" y="0" width="250" height="468"/>
+	<SubTexture name="talkin loop0002" x="496" y="0" width="250" height="468"/>
+	<SubTexture name="talkin loop0003" x="496" y="0" width="250" height="468"/>
+	<SubTexture name="talkin loop0004" x="746" y="0" width="250" height="468"/>
+	<SubTexture name="talkin loop0005" x="0" y="468" width="250" height="468"/>
+</TextureAtlas>

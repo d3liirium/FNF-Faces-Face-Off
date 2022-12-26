@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="anne_darkened.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="darkened idle0000" x="0" y="0" width="409" height="697"/>
+	<SubTexture name="darkened idle0001" x="0" y="0" width="409" height="697"/>
+	<SubTexture name="darkened idle0002" x="409" y="0" width="409" height="697"/>
+	<SubTexture name="darkened idle0003" x="409" y="0" width="409" height="697"/>
+	<SubTexture name="darkened idle0004" x="818" y="0" width="409" height="697"/>
+	<SubTexture name="darkened idle0005" x="818" y="0" width="409" height="697"/>
+	<SubTexture name="darkened idle0006" x="1227" y="0" width="409" height="697"/>
+	<SubTexture name="darkened idle0007" x="1227" y="0" width="409" height="697"/>
+	<SubTexture name="darkened idle0008" x="1636" y="0" width="409" height="697"/>
+	<SubTexture name="darkened idle0009" x="1636" y="0" width="409" height="697"/>
+	<SubTexture name="darkened idle0010" x="0" y="697" width="409" height="697"/>
+	<SubTexture name="darkened idle0011" x="0" y="697" width="409" height="697"/>
+	<SubTexture name="darkened idle0012" x="0" y="697" width="409" height="697"/>
+	<SubTexture name="darkened idle0013" x="0" y="697" width="409" height="697"/>
+</TextureAtlas>

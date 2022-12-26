@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Insen",
+			"face",
+			[
+				186,
+				213,
+				255
+			]
+		],
+		[
+			"Groove",
+			"face",
+			[
+				186,
+				213,
+				255
+			]
+		],
+		[
+			"3lectric",
+			"face",
+			[
+				186,
+				213,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"face",
+		"bf",
+		"gf"
+	],
+	"storyName": "???",
+	"weekName": "FACE",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

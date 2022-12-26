@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.35,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-218,
+				-72
+			],
+			"idle_offsets": [
+				-218,
+				-72
+			],
+			"loop_name": "talkin",
+			"idle_name": "fuck0"
+		}
+	],
+	"image": "FACE_DIALOGUE"
+}

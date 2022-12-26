@@ -1,0 +1,3 @@
+Flash white.
+
+Value 1 is the duration.

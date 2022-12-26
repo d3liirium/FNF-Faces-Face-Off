@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TestBot_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dance you mf0000" x="0" y="0" width="314" height="480"/>
+	<SubTexture name="dance you mf0001" x="314" y="0" width="314" height="480"/>
+	<SubTexture name="dance you mf0002" x="628" y="0" width="314" height="480"/>
+	<SubTexture name="dance you mf0003" x="942" y="0" width="314" height="480"/>
+	<SubTexture name="dance you mf0004" x="1256" y="0" width="314" height="480"/>
+	<SubTexture name="dance you mf0005" x="1570" y="0" width="314" height="480"/>
+	<SubTexture name="dance you mf0006" x="1884" y="0" width="314" height="480"/>
+	<SubTexture name="dance you mf0007" x="2198" y="0" width="314" height="480"/>
+	<SubTexture name="dance you mf0008" x="2512" y="0" width="314" height="480"/>
+	<SubTexture name="dance you mf0009" x="2826" y="0" width="314" height="480"/>
+	<SubTexture name="dance you mf0010" x="3140" y="0" width="314" height="480"/>
+	<SubTexture name="dance you mf0011" x="3454" y="0" width="314" height="480"/>
+	<SubTexture name="dance you mf0012" x="3768" y="0" width="314" height="480"/>
+	<SubTexture name="dance you mf0013" x="0" y="480" width="314" height="480"/>
+	<SubTexture name="down0000" x="314" y="480" width="297" height="439"/>
+	<SubTexture name="down0001" x="611" y="480" width="297" height="439"/>
+	<SubTexture name="down0002" x="908" y="480" width="297" height="439"/>
+	<SubTexture name="down0003" x="1205" y="480" width="297" height="439"/>
+	<SubTexture name="down0004" x="1502" y="480" width="297" height="439"/>
+	<SubTexture name="down0005" x="1799" y="480" width="297" height="439"/>
+	<SubTexture name="my father left me0000" x="2096" y="480" width="282" height="478"/>
+	<SubTexture name="my father left me0001" x="2378" y="480" width="282" height="478"/>
+	<SubTexture name="my father left me0002" x="2660" y="480" width="282" height="478"/>
+	<SubTexture name="my father left me0003" x="2942" y="480" width="282" height="478"/>
+	<SubTexture name="my father left me0004" x="3224" y="480" width="282" height="478"/>
+	<SubTexture name="my father left me0005" x="3506" y="480" width="282" height="478"/>
+	<SubTexture name="rot0000" x="0" y="960" width="311" height="473"/>
+	<SubTexture name="rot0001" x="311" y="960" width="311" height="473"/>
+	<SubTexture name="rot0002" x="622" y="960" width="311" height="473"/>
+	<SubTexture name="rot0003" x="933" y="960" width="311" height="473"/>
+	<SubTexture name="rot0004" x="1244" y="960" width="311" height="473"/>
+	<SubTexture name="rot0005" x="1555" y="960" width="311" height="473"/>
+	<SubTexture name="up0000" x="1866" y="960" width="274" height="501"/>
+	<SubTexture name="up0001" x="2140" y="960" width="274" height="501"/>
+	<SubTexture name="up0002" x="2414" y="960" width="274" height="501"/>
+	<SubTexture name="up0003" x="2688" y="960" width="274" height="501"/>
+	<SubTexture name="up0004" x="2962" y="960" width="274" height="501"/>
+	<SubTexture name="up0005" x="3236" y="960" width="274" height="501"/>
+</TextureAtlas>

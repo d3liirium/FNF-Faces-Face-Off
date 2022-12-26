@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MENU-CHUD.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="chud0000" x="0" y="0" width="151" height="67"/>
+	<SubTexture name="chud selected0000" x="151" y="0" width="151" height="67"/>
+	<SubTexture name="freeplay0000" x="0" y="67" width="229" height="67"/>
+	<SubTexture name="freeplay selected0000" x="229" y="67" width="229" height="67"/>
+	<SubTexture name="options0000" x="0" y="134" width="200" height="69"/>
+	<SubTexture name="options selected0000" x="200" y="134" width="200" height="69"/>
+	<SubTexture name="play0000" x="0" y="203" width="128" height="68"/>
+	<SubTexture name="play selected0000" x="128" y="203" width="128" height="68"/>
+</TextureAtlas>

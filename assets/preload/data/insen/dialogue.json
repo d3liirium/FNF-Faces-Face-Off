@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "noone",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "In the middle of bumfuck nowhere..."
+		},
+		{
+			"sound": "face",
+			"speed": 0.05,
+			"portrait": "face",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hello."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "...hi."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "...who the fuck are you?"
+		},
+		{
+			"sound": "face",
+			"speed": 0.05,
+			"portrait": "face",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm FACE."
+		},
+		{
+			"sound": "face",
+			"speed": 0.05,
+			"portrait": "face",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm an entity designed to test your rap skills."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.12,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "...okay..."
+		},
+		{
+			"sound": "face",
+			"speed": 0.05,
+			"portrait": "face",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Anyways..."
+		},
+		{
+			"sound": "face",
+			"speed": 0.05,
+			"portrait": "face",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...wanna spit some bars?"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Sure. I have time."
+		},
+		{
+			"sound": "face",
+			"speed": 0.05,
+			"portrait": "face-happy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Good. Let's start off easy."
+		}
+	]
+}

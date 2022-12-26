@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"sound": "face",
+			"speed": 0.05,
+			"portrait": "facehappy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That was good!"
+		},
+		{
+			"sound": "face",
+			"speed": 0.05,
+			"portrait": "face",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Now..."
+		},
+		{
+			"sound": "face",
+			"speed": 0.05,
+			"portrait": "face",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Let's take this one nice and easy."
+		},
+		{
+			"sound": "face",
+			"speed": 0.05,
+			"portrait": "face",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Also..."
+		},
+		{
+			"sound": "face",
+			"speed": 0.05,
+			"portrait": "face",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "If you're wondering why you're in the middle of this circle..."
+		},
+		{
+			"sound": "face",
+			"speed": 0.05,
+			"portrait": "face",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I've created an environment more suitable for you to feel more comfortable in."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "shut yo bitch ass up. yo head lookin like a bowlin ball i used at the bowling alley i worked at bitch. yo head so shiny its like the chicago bean in this motherfucker got DAMN. yo voice soundin like you aint heard of the word 'lozenges' and you were too fucked to drink a goddamn glass of water. matter of fact imma rob yo ass. imma break in your house and be all up in yo shit bitch. yo bitch ass gonna have to watch as i steal yo yeezys and fuck up yo bitch, nyuggah"
+		},
+		{
+			"sound": "face",
+			"speed": 0.05,
+			"portrait": "face",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oooookay...."
+		},
+		{
+			"sound": "face",
+			"speed": 0.05,
+			"portrait": "face",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Let's get on with it, then."
+		}
+	]
+}

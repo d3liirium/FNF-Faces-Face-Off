@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				27
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "L",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-14
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "R",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				11
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "D",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				45
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "U",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mayz_test",
+	"position": [
+		-150,
+		-300
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}
